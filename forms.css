@@ -1,0 +1,61 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  font-weight: 500;
+  width: auto;
+  margin-top: 10px;
+}
+
+form {
+  border: 2px solid rgb(42, 168, 226);
+  border-radius: 8px;
+  padding: 30px 5px 10px 50px;
+}
+.header {
+  color: red;
+}
+.btn input {
+  background-color: rgb(209, 203, 203);
+  border-radius: 6px;
+  margin-right: 5px;
+  width: 70px;
+  padding: 4px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+table thead tr,
+table tbody tr {
+  margin: bottom 50px;
+}
+
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:12px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+form{
+    border: 2px solid blue;
+    border-radius: 8px;
+    padding: 30px 5px 10px 50px;
+    width: auto;
+    max-width: 300px;
+    
+}
+.baslik{
+    color: red;
+    font-size: 18px;
+}
+.btn input{
+    background-color: #999;
+    border-radius: 6px;
+    margin-right: 5px;
+    width: 90px;
+    padding: 4px;
+    margin-top: 15px;
+    
+    
+}
+table thead tr, table tbody tr{
+    margin-bottom: 50px;
+} */
